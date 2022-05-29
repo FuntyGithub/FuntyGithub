@@ -5,7 +5,7 @@
 
 # 👋Welcome 
 to my Github profile. Here you can find some projects I made. Plugins, discord bots, websites and whatever else I will try to program.  
-I plan to use Github to save and share my progress and projects in programming. This and the reason that I will probably not actively update some projects, leads of course to the fact that especially older code, due to later learned knowledge, is not very clean or performant.
+I plan to use Github to save and share my progress and projects in programming. This and the reason that I will probably not actively update some projects, leads of course to the fact that especially older code, due to later learned knowledge, may not be very clean or performant.
 ## 📈 Statistics
 ### [Github](https://github.com/FuntyGithub)
 ![languages](https://github-readme-stats-dun-chi.vercel.app/api/top-langs/?username=FuntyGithub&hide_title=true&bg_color=0d1117&text_color=f0f6fc&hide_border=false)
