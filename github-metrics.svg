@@ -87,14 +87,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.9966829733335" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="293.9966829733335" y="0" width="74.5652753992103" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.56195837254387" y="0" width="53.47985581990756" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="422.04181419245145" y="0" width="33.041841220076115" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.0836554125276" y="0" width="1.7674788877395322" height="8" fill="#E22837"/>
-                    <rect mask="url(#languages-bar)" x="456.8511343002671" y="0" width="1.5775975390119192" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.42873183927907" y="0" width="1.1363494524448943" height="8" fill="#264b99"/>
-                    <rect mask="url(#languages-bar)" x="459.56508129172397" y="0" width="0.4349187082761044" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.9965385000953" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="293.9965385000953" y="0" width="74.56523875700506" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="368.5617772571004" y="0" width="53.47982953931191" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="422.0416067964123" y="0" width="33.04205103206163" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.0836578284739" y="0" width="1.7674780191807586" height="8" fill="#E22837"/>
+                    <rect mask="url(#languages-bar)" x="456.8511358476547" y="0" width="1.577596763762951" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.4287326114176" y="0" width="1.1363488940301412" height="8" fill="#264b99"/>
+                    <rect mask="url(#languages-bar)" x="459.5650815054477" y="0" width="0.4349184945522164" height="8" fill="#76d275"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -207,12 +207,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 28 commits)</small>
+                    <small class="h-details">(computed from last 29 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.0 characters per line of code written</li>
+                        <li>Has approximately 36.1 characters per line of code written</li>
                         <li>Mostly pushes code around 02:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2410,7 +2410,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="140.97989949748745 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="141.75879396984925 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2432,10 +2432,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">182</div>
+                                        <div class="value">183</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 182 times</div>
+                                <div class="text">Repositories have been deployed 183 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2744,7 +2744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2022, 14:19:33 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 27 Dec 2022, 15:13:58 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
