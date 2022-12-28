@@ -56,6 +56,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
           plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 365
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: public
